@@ -1,0 +1,15 @@
+home:
+    path: Controllers\Home\Home
+    action: build
+register:
+    path: Controllers\Register\Register
+    action: build
+login:
+    path: Controllers\Login\Login
+    action: build
+close:
+    path: Controllers\Login\Login
+    action: logout
+profile:
+    path: Controllers\Profile\Profile
+    action: build

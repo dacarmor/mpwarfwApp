@@ -1,0 +1,9 @@
+Database:
+    class: Mpwarfw\Component\Database\Database
+    args: 
+Twig:
+    class: Mpwarfw\Component\Templating\TwigTemplate
+    args: 
+Smarty:
+    class: Mpwarfw\Component\Templating\SmartyTemplate
+    args: ['Smarty']

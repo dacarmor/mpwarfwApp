@@ -1,0 +1,23 @@
+{
+    "name": "dacarmor/mpwarfw-standard-edition",
+    "description": "Standard APP using MPWAR Framework",
+    "license": "Apache-2.0",
+    "keywords": [],
+    "homepage": "https://github.com/dacarmor/mpwarfw",
+    "type": "project",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/dacarmor/mpwarfw"
+        }
+    ],
+    "require": {
+        "dacarmor/mpwarfw": "dev-devel"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}

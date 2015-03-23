@@ -6,7 +6,7 @@ Miniaplicación de login y registro
 ------------------------
 Primero clonamos el repositorio de la aplicación
 ```bash
-$ git clone https://github.com/dacarmor/mpwarfwApp.git mpwarfwApp
+$ git clone https://github.com/dacarmor/mpwarfwApp.git
 ```
 A continuación, instalaremos Composer
 ```bash

@@ -76,7 +76,7 @@ $db->update( {Tabla}, {Datos}, {Condición} );
 $db->delete( {Tabla}, {Datos} );
 ```
 
-* Request:
+* Request/Parameters:
 ```bash
 $request = $this->request->{Service};
 $request->getValue( {Variable name} );
@@ -93,7 +93,7 @@ return new HttpResponse( {Response action} );
  return new JsonResponse( {Response action} );
 ```
 
-* Routes:
+* Routes/Route:
 Las rutas se construyen siguiendo el siguiente patrón:
 ```bash
 /{controlador}/{param1}/{param2}/...

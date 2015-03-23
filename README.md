@@ -2,11 +2,6 @@
 ------------------------
 Miniaplicación de login y registro
 
-## Requisitos
-------------------------
-* PHP
-* MySQL
-
 ## Instalación
 ------------------------
 Primero clonamos el repositorio de la aplicación
